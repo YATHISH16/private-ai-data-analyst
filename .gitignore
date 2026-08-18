@@ -1,0 +1,4 @@
+venv/
+.env
+uploaded_data_workspace/
+.DS_Store
